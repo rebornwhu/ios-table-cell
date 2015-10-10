@@ -20,6 +20,9 @@
                                 <rect key="frame" x="0.0" y="28" width="600" height="572"/>
                                 <animations/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <connections>
+                                    <outlet property="dataSource" destination="BYZ-38-t0r" id="7D3-8t-e3Z"/>
+                                </connections>
                             </tableView>
                         </subviews>
                         <animations/>
@@ -32,7 +35,7 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="tableView" destination="a7D-wJ-a9Z" id="eHS-JC-hd6"/>
+                        <outlet property="tableView" destination="a7D-wJ-a9Z" id="dJk-U9-j03"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
