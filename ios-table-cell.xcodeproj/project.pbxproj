@@ -16,6 +16,7 @@
 		89386ECE1BC9C3800092215C /* ios_table_cellUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89386ECD1BC9C3800092215C /* ios_table_cellUITests.swift */; };
 		89386EDC1BC9C38F0092215C /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 89386EDB1BC9C38F0092215C /* .gitignore */; settings = {ASSET_TAGS = (); }; };
 		89386EE01BC9C67D0092215C /* NameAndColorCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89386EDF1BC9C67D0092215C /* NameAndColorCell.swift */; settings = {ASSET_TAGS = (); }; };
+		89386EE21BC9DA110092215C /* NameAndColorCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 89386EE11BC9DA110092215C /* NameAndColorCell.xib */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		89386ECF1BC9C3800092215C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		89386EDB1BC9C38F0092215C /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		89386EDF1BC9C67D0092215C /* NameAndColorCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NameAndColorCell.swift; sourceTree = "<group>"; };
+		89386EE11BC9DA110092215C /* NameAndColorCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NameAndColorCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				89386EB61BC9C3800092215C /* LaunchScreen.storyboard */,
 				89386EB91BC9C3800092215C /* Info.plist */,
 				89386EDF1BC9C67D0092215C /* NameAndColorCell.swift */,
+				89386EE11BC9DA110092215C /* NameAndColorCell.xib */,
 			);
 			path = "ios-table-cell";
 			sourceTree = "<group>";
@@ -236,6 +239,7 @@
 			files = (
 				89386EDC1BC9C38F0092215C /* .gitignore in Resources */,
 				89386EB81BC9C3800092215C /* LaunchScreen.storyboard in Resources */,
+				89386EE21BC9DA110092215C /* NameAndColorCell.xib in Resources */,
 				89386EB51BC9C3800092215C /* Assets.xcassets in Resources */,
 				89386EB31BC9C3800092215C /* Main.storyboard in Resources */,
 			);
