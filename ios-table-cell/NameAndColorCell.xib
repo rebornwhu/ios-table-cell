@@ -45,20 +45,20 @@
                 </subviews>
                 <animations/>
                 <constraints>
-                    <constraint firstAttribute="bottomMargin" secondItem="rXM-fr-XBT" secondAttribute="bottom" id="0Lq-GN-WFO"/>
-                    <constraint firstAttribute="trailingMargin" secondItem="vsS-Un-0Ig" secondAttribute="trailing" id="3BP-gK-ynr"/>
-                    <constraint firstItem="0JW-m5-feU" firstAttribute="leading" secondItem="rXM-fr-XBT" secondAttribute="trailing" constant="8" id="A5n-j2-EGz"/>
-                    <constraint firstItem="rXM-fr-XBT" firstAttribute="baseline" secondItem="0JW-m5-feU" secondAttribute="baseline" id="Kja-q1-8a5"/>
-                    <constraint firstAttribute="trailingMargin" secondItem="0JW-m5-feU" secondAttribute="trailing" id="Sie-cg-r70"/>
-                    <constraint firstAttribute="topMargin" secondItem="Yrr-tk-QZC" secondAttribute="top" id="TZp-tN-dHJ"/>
-                    <constraint firstItem="vsS-Un-0Ig" firstAttribute="leading" secondItem="Yrr-tk-QZC" secondAttribute="trailing" constant="8" id="USx-5g-7Va"/>
-                    <constraint firstItem="rXM-fr-XBT" firstAttribute="width" secondItem="Yrr-tk-QZC" secondAttribute="width" id="bbM-hh-kGF"/>
-                    <constraint firstAttribute="leadingMargin" secondItem="Yrr-tk-QZC" secondAttribute="leading" id="dGb-K4-Uiz"/>
+                    <constraint firstItem="rXM-fr-XBT" firstAttribute="top" secondItem="Yrr-tk-QZC" secondAttribute="bottom" constant="6" id="40J-uv-N3n"/>
+                    <constraint firstItem="0JW-m5-feU" firstAttribute="leading" secondItem="rXM-fr-XBT" secondAttribute="trailing" constant="8" id="51N-Lr-mHP"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="0JW-m5-feU" secondAttribute="trailing" id="7cY-MQ-bVz"/>
+                    <constraint firstItem="rXM-fr-XBT" firstAttribute="width" secondItem="Yrr-tk-QZC" secondAttribute="width" id="AkB-ch-7Mh"/>
+                    <constraint firstAttribute="leadingMargin" secondItem="Yrr-tk-QZC" secondAttribute="leading" id="CtQ-4a-8mU"/>
+                    <constraint firstItem="rXM-fr-XBT" firstAttribute="baseline" secondItem="0JW-m5-feU" secondAttribute="baseline" id="QvA-jn-aWW"/>
+                    <constraint firstItem="Yrr-tk-QZC" firstAttribute="baseline" secondItem="vsS-Un-0Ig" secondAttribute="baseline" id="YuV-mx-aeb"/>
+                    <constraint firstAttribute="leadingMargin" secondItem="rXM-fr-XBT" secondAttribute="leading" id="dYh-HC-NEK"/>
                     <constraint firstAttribute="trailingMargin" secondItem="rXM-fr-XBT" secondAttribute="trailing" constant="249" id="egB-ve-NQw"/>
+                    <constraint firstItem="vsS-Un-0Ig" firstAttribute="leading" secondItem="Yrr-tk-QZC" secondAttribute="trailing" constant="8" id="ehP-dG-Yb2"/>
+                    <constraint firstAttribute="topMargin" secondItem="Yrr-tk-QZC" secondAttribute="top" id="fJl-V2-qID"/>
+                    <constraint firstAttribute="bottomMargin" secondItem="rXM-fr-XBT" secondAttribute="bottom" id="jCo-wj-ehx"/>
                     <constraint firstAttribute="trailingMargin" secondItem="Yrr-tk-QZC" secondAttribute="trailing" constant="249" id="pmN-o9-Ohu"/>
-                    <constraint firstItem="Yrr-tk-QZC" firstAttribute="baseline" secondItem="vsS-Un-0Ig" secondAttribute="baseline" id="qfH-Bh-R2j"/>
-                    <constraint firstItem="rXM-fr-XBT" firstAttribute="top" secondItem="Yrr-tk-QZC" secondAttribute="bottom" constant="6" id="rLG-WT-V2B"/>
-                    <constraint firstAttribute="leadingMargin" secondItem="rXM-fr-XBT" secondAttribute="leading" id="sXl-R1-Akt"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="vsS-Un-0Ig" secondAttribute="trailing" id="w82-6X-aGW"/>
                 </constraints>
                 <variation key="default">
                     <mask key="constraints">
